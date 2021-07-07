@@ -1,4 +1,3 @@
-/*eslint no-unused-vars: "error"*/
 import React,{useState} from 'react'
 import {useStateValue} from './StateProvider'
 import "./Login.css"
