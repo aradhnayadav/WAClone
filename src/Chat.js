@@ -1,3 +1,4 @@
+/*eslint no-unused-vars: "error"*/
 import React ,{useState,useEffect} from 'react'
 import './Chat.css'
 import {Avatar , IconButton} from "@material-ui/core"

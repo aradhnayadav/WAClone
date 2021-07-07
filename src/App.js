@@ -1,4 +1,4 @@
-
+/*eslint no-unused-vars: "error"*/
 import './App.css';
 import Sidebar from './Sidebar'
 import Chat from './Chat'
