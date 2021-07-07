@@ -1,0 +1,25 @@
+.login{
+    background-color:white ;
+    height: 100vh;
+    width:100vw;
+    display: grid;
+    place-items: center;
+}
+.login_cont{
+    padding: 100px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 4px 7px 4px 10px #a39e9e;
+}
+.login_cont > img{
+    object-fit: conain;
+    height: 100px;
+    margin-bottom: 40px;
+}
+.login_cont > Button{
+    margin-top: 50px;
+    text-transform: inherit !important;
+    background-color: lawngreen !important;
+    color: white;
+}
